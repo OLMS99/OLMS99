@@ -1,16 +1,21 @@
-## Hi there 👋
+## Ola Ola! ✨
 
-<!--
-**OLMS99/OLMS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+Um programador br no começo da carreira e tentando se mover no mundo.
+</div>
+<br>
+<div>Fluente em: Português e Inglês</div>
+<div>Em progresso: Francês (A2)</div>
+<br>
+<div>Areas de Foco: IA, cybersegurança e programação gráfica</div>
+<br>
+<div>Linguagens usadas: Pytrhon, Java, C/C++, Lua, etc</div>
+<div>ferramentas usadas: Jupyter notebook, vscodium, vscode, docker, etc</div>
+<div>aprendendo: rust, kotlin, opengl, vulcan, etc</div>
 
-Here are some ideas to get you started:
+### contatos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- email: olavolucasprogrammer@protonmail.com
+- discord: @olms99
+- linkedin: [Olavo Lucas](https://www.linkedin.com/in/olavo-lucas/)
+
