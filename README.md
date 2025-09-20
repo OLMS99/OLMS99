@@ -4,7 +4,7 @@
 Um programador br no começo da carreira e tentando se mover no mundo.
 </div>
 <br>
-<div align="center>Fazendo mestrado na PUC-Rio</div>
+<div align="center">Fazendo mestrado na PUC-Rio</div>
 <br>
 <div>Fluente em: Português e Inglês</div>
 <div>Em progresso: Francês (A2)</div>
