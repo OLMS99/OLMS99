@@ -11,10 +11,12 @@ Um programador br no começo da carreira e tentando se mover no mundo.
 <br>
 <div>Areas de Foco: IA, cybersegurança e programação gráfica</div>
 <br>
-<div>Linguagens usadas: Pytrhon, Java, C/C++, Lua, etc</div>
-<div>ferramentas usadas: Jupyter notebook, vscodium, vscode, docker, etc</div>
+<div>Linguagens usadas: Python, Java, C/C++, Lua, etc</div>
+<div>ferramentas usadas: Jupyter notebook, vscodium, vscode, docker, unity, godot, etc</div>
 <div>aprendendo: rust, kotlin, opengl, vulcan, etc</div>
-
+<br>
+<div>Projeto de destaque: https://github.com/OLMS99/project_AI_rule_association</div>
+<br>
 ### contatos
 
 - email: olavolucasprogrammer@protonmail.com
